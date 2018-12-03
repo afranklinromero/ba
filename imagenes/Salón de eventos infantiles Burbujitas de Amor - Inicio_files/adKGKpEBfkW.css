@@ -1,0 +1,4 @@
+@keyframes glimmer{0%{opacity:1}50%{opacity:.25}100%{opacity:1}}._6s9f{position:relative}._6s9g,._6s9h{animation:glimmer 2s cubic-bezier(.5, 0, .5, 1) infinite;background-image:linear-gradient( rgba(0, 0, 0, .05), rgba(0, 0, 0, .05) )}._6s9g{border-radius:8px;display:block;height:32px;width:32px}._6s9i ._6s9g{height:48px;width:48px}._6s9g._6s9j{border-radius:50%}._6s9h{border-radius:12px;display:block;height:12px;margin:2px 0}._6s9k{width:calc(100% - 36px)}._6s9l{width:40%}._6s9m{width:25%}._79x2{padding-bottom:6px;padding-top:6px}
+._3nn2{flex:auto}._3nmt{flex:none}._3nn4{align-self:center}._77kn{pointer-events:none}
+
+#bootloader_V_PeI{height:42px;}.bootloader_V_PeI{display:block!important;}

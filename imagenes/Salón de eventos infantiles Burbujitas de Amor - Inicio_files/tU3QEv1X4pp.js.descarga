@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["DIa+n"]); }
+
+__d("ReactComposerProfilePhotoVoiceSwitcherBlock.react",["cx","Layout.react","PagesSproutComposerActorSelector.react","React"],(function(a,b,c,d,e,f,g){"use strict";var h,i=b("Layout.react").Column,j=b("Layout.react").FillColumn;h=babelHelpers.inherits(a,b("React").PureComponent);h&&h.prototype;a.prototype.render=function(){return b("React").createElement(b("Layout.react"),null,b("React").createElement(i,{className:"_q-v"},b("React").createElement("span",null,b("React").createElement(b("PagesSproutComposerActorSelector.react"),this.props.config))),b("React").createElement(j,null,this.props.children))};function a(){h.apply(this,arguments)}e.exports=a}),null);
